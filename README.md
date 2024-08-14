@@ -1,5 +1,5 @@
 ## CS2030 Individual Project
-!!! FOR CURRENT NUS STUDENTS ENROLLED IN CS2030: PLEASE DO NOT PLAGARISE, THIS OWNER IS NOT LIABLE FOR ANY PLAGIARISM CASES.  
+!!! FOR CURRENT NUS STUDENTS ENROLLED IN CS2030: PLEASE DO NOT PLAGARISE.  
 1. Each customer comes to the net cafe and can be served by 1 server at a time
 2. Each customer have a stipulated use time, and the next customer will go to the next empty server if available.
 3. After serving a customer, the server has to wait for a stipulated period of time.
